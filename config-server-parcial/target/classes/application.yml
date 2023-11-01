@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Elkinssm/parcial-backend-henry-gutierrez.git
+          uri: https://github.com/henryssm/parcial-backend-henry-gutierrez.git
           default-label: main
           force-pull: true
           search-paths: configuration-parcial
